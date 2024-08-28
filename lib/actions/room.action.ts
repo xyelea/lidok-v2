@@ -1,4 +1,4 @@
-"user server";
+"use server";
 
 import { nanoid } from "nanoid";
 import { liveblocks } from "../liveblocks";
